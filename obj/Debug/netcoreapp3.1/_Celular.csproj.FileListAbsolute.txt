@@ -1,0 +1,13 @@
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Celular\bin\Debug\netcoreapp3.1\_Celular.exe
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Celular\bin\Debug\netcoreapp3.1\_Celular.deps.json
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Celular\bin\Debug\netcoreapp3.1\_Celular.runtimeconfig.json
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Celular\bin\Debug\netcoreapp3.1\_Celular.runtimeconfig.dev.json
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Celular\bin\Debug\netcoreapp3.1\_Celular.dll
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Celular\bin\Debug\netcoreapp3.1\_Celular.pdb
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Celular\obj\Debug\netcoreapp3.1\_Celular.csprojAssemblyReference.cache
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Celular\obj\Debug\netcoreapp3.1\_Celular.AssemblyInfoInputs.cache
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Celular\obj\Debug\netcoreapp3.1\_Celular.AssemblyInfo.cs
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Celular\obj\Debug\netcoreapp3.1\_Celular.csproj.CoreCompileInputs.cache
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Celular\obj\Debug\netcoreapp3.1\_Celular.dll
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Celular\obj\Debug\netcoreapp3.1\_Celular.pdb
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Celular\obj\Debug\netcoreapp3.1\_Celular.genruntimeconfig.cache
